@@ -1,0 +1,26 @@
+#+TITLE: TB Hub
+#+SUBTITLE: A little personal static website written in Org mode within Emacs.
+
+* About
+My name is Tibério Baptista. Against all odds, I was born smack dab in the middle of the Atlantic Ocean in São Miguel, the biggest island in the Azores archipelago.
+
++It's a desolate, damp rock, and through the constant cloudy weather we are threatened by fumes of active volcanoes. We, the poor unwashed masses, are barraged by foreigners seeking to take our sacred cows, personally blessed and sponsored by Saint Michael himself. The language barrier is too great even for our pea-brained mainlanders, as we speak a tribalistic, undecipherable language, gesticulating with the same violent intensity.+ It's great, give us a visit!
+
+I am a master's in [[https://en.wikipedia.org/wiki/Informatics_engineering][Informatics Engineering]] in Aveiro, Portugal. Essencially, it's a lot of programming and web development based on information/data. Some of the stuff I learned includes:
+1. A lot of knowledge with programming languages (Python, Java, C, C++, Javascript, ...)
+2. Working with SQL and NoSQL databases;
+3. Development of web servers using frameworks such as Django, Spring Boot, etc.
+4. Deployment of services:
+   1) Bare metal / virtual machine services;
+   2) Application containerization via Docker;
+   3) Deployment of distributed, and redundant applications via Kubernetes.
+It was a good course that taught me a bit of a lot, the expression "jack of all trades" is a nice fit for those who graduate.
+
+* This Website
+I've always wanted to make my own website, though I'm not a big fan of HTML/Javascript. Thankfully I've been slowly *DEEP DIVE* in Linux, going from being better as a poweruser to starting to grasp Vim, and now... playing with Doom Emacs.
+
+For now I'm mostly toying and experimenting with Doom Emacs' Org mode. Later on, this website will look a lot better and include relevant personal info, such as personal projects and articles.
+
+I also intend on adding a blog section for sharing knowledge, which will likely consist of Linux-related tools and tutorials, lest I forget and lest you lose more hair.
+* That's it.
+I'm done for now, look at this cool image: [[file:imgs/7871-demomium.gif]] I think it adds quality to this webpage.
