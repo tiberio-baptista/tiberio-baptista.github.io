@@ -1,7 +1,0 @@
-#+TITLE: README
-#+SUBTITLE: Personal website in Emacs Org files.
-
-* About
-Personal static HTML website generated from Emacs Org files.
-* Intent
-Provide some basic personal information about myself, along with my contributions and submitted articles. Additionally, I may add a sort of blog with Linux-based knowledge that I'm willing to share.
